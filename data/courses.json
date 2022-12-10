@@ -1,0 +1,818 @@
+[
+    {
+      "_id": "0101jfb",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "topic":"Web Development",
+      "badge":"NEW",
+      "rating": { "number": 4.3, "badge": "Excellent", "people": " (1,294 ratings)"},
+      "students": "11,111",
+      "total_view": "12k",
+      "price": 19.99,
+      "quantity":0,
+      "language":"English",
+      "title": "Javascript for Beginners",
+      "sub_details": "Learn javascript online and supercharge your web design with this Javascript for beginners training course.",
+      "author": {
+        "name": "Md.Omar Faruk",
+        "Last_updated": "2022-11-24",
+        "img": "https://i.ibb.co/BqZGPhh/52702568-243722699865416-4654489155693182976-n.jpg"
+      },
+      "image_url": "https://i.ibb.co/KWnRLsW/Javascript-for-Beginners.jpg",
+      "learn":{
+        "a":"Extensive, informative and interesting video lecture",
+        "b":"Lab Exercises",
+        "c":"All Powerpoint Demonstrations Used in Course",
+        "d":"Coverage of all important primary Javascript concepts",
+        "e":"Complete Code demonstrated in lecture",
+        "f":"Lab Solution Sets",
+        "g":"Instructor contact Email for questions and clarifications"
+      },
+      "course_content":{
+       "intro":"Javascript for Beginners 2 lectures • 4 min", 
+       "a":"Chapter 1: Hello Javascript! 6 lectures • 21min",
+       "b":"Chapter 2: Storing Information in Variables 4 lectures • 18min",
+       "c":"Chapter 3: Conditional Statements 5 lectures • 18min",
+       "d":"Chapter 4: Dialog Boxes 3 lectures • 7min","e":"Chapter 5: Now We're Iterating! Loops in Javascript 5 lectures • 16min",
+       "f":"Chapter 6: Coding Javascript Functions 6 lectures • 16min","g":"Chapter 7: Working with Arrays 4 lectures • 19min","h":"Chapter 8: The String Object 3 lectures • 12min",
+       "i":"Chapter 9: Obtaining and Manipulating User Information 3 lectures • 13min",
+       "j":"Chapter 10: The Document Object 5 lectures • 12min",
+       "k":"Lab Solutions 1 lecture • 0min"
+    },
+    "course_content_text":"Javascript for Beginners • Preview • 02:27",
+    "details": {
+     "requirements":"Some basic knowledge of HTML is required for this course." ,
+     "msg":"👉🏻Take this Javascript training course and start learning Javascript today.",
+     "description":{
+            "a":"As a business guy I have no place in programming. Ten years ago you could have gotten away with that statement. Today you say that to your colleagues and they scoff at you before they go back to their computers to fix real problems and do real work.",
+            "b":"If you want to do something useful start by learning Javascript . In these days when the browser is central to all computer use knowing the language of the browser is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript real potential and uses and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers.",
+            "c":"Our online Javascript course will get you started by teaching all the essential aspects of coding in Javascript. So... what's it gonna be? Do you want to supercharge your career and be in constant demand by employers? Do you want to learn how to create dynamic and innovative Javascript documents? Start programming today with our Javascript course for Beginners training and take control of your career."
+        },    
+    "course_for": {
+            "a":" 👉🏻Web Designers looking to improve their skill set.",
+            "b":" 👉🏻Programmers who need to learn Javascript for their web applications.",
+            "c":" 👉🏻People looking to start programming and need a first programming.",
+            "d":" 👉🏻language to learn.",
+            "e":" 👉🏻Students who want to learn Javascript.",
+            "f":" 👉🏻People who manage a web site as a volunteer or as a hobby.",
+            "g":" 👉🏻Bloggers-- even if you use Wordpress or another CMS!.",
+            "h":" 👉🏻Anyone else who wants to learn Javascript."           
+        }      
+      },
+      "course_includes":{
+        "a":"2.5 hours on-demand video",
+        "b":"1 downloadable resource",
+        "c":"6 coding exercises",
+        "d":"Full lifetime access",
+        "e":"Access on mobile and TV",
+        "f":"Certificate of completion"
+      }
+    },
+    {
+      "_id": "01-01-become-a-certified-html-css-javaScript-web-developer",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "topic":"Web Development",
+      "rating": { "number": 4.4, "badge": "Excellent", "people": " (3,022 ratings)"},
+      "students": "34,904",
+      "total_view": "13k",
+      "price":84.99,
+      "quantity":0,
+      "language":"English",
+      "title": "Become a Certified HTML, CSS, JavaScript Web Developer",
+      "sub_details": "Complete coverage of HTML, CSS, Javascript while you Earn Four Respected Certifications.",
+      "author": {
+        "name": "Md.Omar Faruk",
+        "Last_updated": "2022-11-24",
+        "img": "https://i.ibb.co/BqZGPhh/52702568-243722699865416-4654489155693182976-n.jpg"
+      },
+      "image_url": "https://wallpapercave.com/wp/wp11723484.png",
+      "learn":{
+        "a":"Prepare for Industry Certification Exam",
+        "b":"Over 25 Engaging Lab Exercises & All Lab Solutions",
+        "c":"Hours and Hours of Video Instruction",
+        "d":"Instructor Available by Email or on the Forums",
+        "e":"Earn Certification that is Proof of your Competence",
+        "f":"Dozens of Code Examples to Download and Study",
+        "g":"All Free Tools"
+      },
+      "course_content":{
+       "intro":"Program Information 1 lecture • 2min", 
+       "a":"Chapter 1: Your Development Toolbox 3 lectures • 50min",
+       "b":"Chapter 2: Certified HTML5 Specialist 2019 18 lectures • 2hr 42min",
+       "c":"Chapter 3: Certified CSS Specialist 2019 9 lectures • 1hr 47min",
+       "d":"Chapter 4: JavaScript Specialist 2019 15 lectures • 3hr 7min","e":"Chapter 5: jQuery for Application Development 27 lectures • 2hr 17min",
+       "f":"Chapter 6: HTML 5 Specialist: First Steps in HTML 9 lectures • 36min",
+       "g":"Chapter 7: Javascript : Hello Javascript! 5 lectures • 14min",
+       "h":"Chapter 8: PHP mySQL : Your First PHP Scripts 6 lectures • 29min",
+       "i":"Chapter 9: PHP mySQL : Sending Email with PHP 3 lectures • 9min",
+       "j":"PHP mySQL : Working with the mySQL Database 7 lectures • 1hr 29min",
+       "k":"Lab Solutions 6 lectures • 7min"
+    },
+    "course_content_text":"HTML, CSS, Javascript for Beginners • Preview • 02:27",
+    "details": {
+     "requirements":"There are no skill prerequisites for this course although it's helpful if you are familiar with operating your computer and using the internet." ,
+     "msg":"👉🏻Completely Updated for 2020 with 40 NEW lectures, course guides, and coding activities. Complete coverage of ES6! ",
+     "description":{
+            "a":"The unique Certified Web Development Professional credential will provide proof that you have mastered the fundamental skills needed by new web developers. You'll have a full understanding of HTML5, the language used to structure web sites and many mobile applications that you use every day. From there, you'll move on to Javascript-- the language of interaction on the web. The use of Javascript is growing at a lightning pace and it's been called the most important language to learn today,by multiple experts. Each language carries its own individual Specialist Designation for which you earn a certificate, the privilege of using the specialist credential badge, and a personal online transcript page that shows your designations, certification, and accomplishments.",
+            "b":"This course is specially designed to prepare you for the  Web Development Professional Certification from LearnToProgram, Inc. This certification will allow you to prove that you have achieved competencies in HTML, CSS, Javascript, and PHP/MySQL-- everything you need to create basic web applications. New for 2019:  No exams are required to earn your certifications.  Complete and submit all the lab activities for the course program and you'll earn your new certifications!",
+            "c":"Don't worry, you won't need to buy any additional courses, it's all here. No need to spend four years and over $15,000 per year in college tuition either—it really is all here. From HTML to CSS then to Javascript and finally PHP, you will learn how to Become a Certified Web Developer. It Doesn't Matter Where You're Starting From...You Can Do It! "
+        },    
+    "course_for": {
+            "a":" 👉🏻Web Designers who Want to Learn To Code",
+            "b":" 👉🏻Traditional Programmers who Want to Learn Web Development",
+            "c":" 👉🏻People who Want to Develop Mobile Web Sites",
+            "d":" 👉🏻Students who want Practical Development Skills",
+            "e":" 👉🏻Web Masters who Need to Improve Development Skills",
+            "f":" 👉🏻Volunteers who Manage a Site for a Church or Non Profit",
+            "g":" 👉🏻Teachers who Want to Introduce Web Development to Their Classes",
+            "h":" 👉🏻Those Considering a Career in Web Development"           
+        }      
+      },
+      "course_includes":{
+        "a":"45.5 hours on-demand video",
+        "b":"3 articles",
+        "c":"200 downloadable resources",
+        "d":"Full lifetime access",
+        "e":"Access on mobile and TV",
+        "f":"Certificate of completion"
+      }
+    },
+    {
+      "_id": "01-01-the-complete-2022-fullstack-web-developer-course",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "topic":"Web Development",
+      "badge":"NEW",
+      "rating": { "number": 4.4, "badge": "Excellent", "people": " (6,507 ratings)"},
+      "students": "92,464",
+      "total_view": "14k",
+      "price":80.99,
+      "quantity":0,
+      "language":"English",
+      "title": "The Complete 2022 Fullstack Web Developer Course",
+      "sub_details": "Learn HTML5, CSS3, JavaScript, Python, Wagtail CMS, PHP & MySQL from scratch!",
+      "author": {
+        "name": "Md.Omar Faruk",
+        "Last_updated": "2022-11-24",
+        "img": "https://i.ibb.co/BqZGPhh/52702568-243722699865416-4654489155693182976-n.jpg"
+      },
+      "image_url": "https://www.multidots.com/wp-content/uploads/2018/01/Full_stack_developer-1-1.jpg",
+      "learn":{
+        "a":"Learn Python from beginner to advanced",
+        "b":"Lots of projects, big and small!",
+        "c":"Create a portfolio page and launch it",
+        "d":"Learn PHP for server code execution",
+        "e":"Learn HTML5, CSS3, Vanilla JS (ES6+), Python, Wagtail CMS, PHP and MySQL all from scratch",
+        "f":"Learn Git and Github",
+        "g":"How to get a job as a web developer"
+      },
+      "course_content":{
+       "intro":"Before We Begin 2 lectures • 3min",
+       "a":"The Ultimate HTML Developer: Getting Started 24 lectures • 2hr 36min",
+       "b":"CSS & CSS3 Masterclass: Getting Started 13 lectures • 1hr 5min",
+       "c":"JavaScript for Beginners - Learn with 6 main projects 39 lectures • 5hr 45min",
+       "d":"Create a Hand Made Calculator with HTML, CSS and JavaScript 11 lectures • 58min",
+       "e":"Git Essentials: Advanced Git 14 lectures • 1hr 16min",
+       "f":"Understanding APIs: RESTful APIs 15 lectures • 37min","g":"Python for Everybody: Advanced Python 29 lectures • 3hr 9min",
+       "h":"Create an Image Detection App from Scratch using Machine Learning 10 lectures • 28min",
+       "i":"Legacy Complete Web Developer Course 1 lecture • 1min",
+       "j":"Login/Registration Project 21 lectures • 2hr 49min",
+       "k":"Lab Solutions 1 lecture • 0min"
+    },
+    "course_content_text":"Web Developer Course for Beginners • Preview • 02:27",
+    "details": {
+     "requirements":"Must be willing to learn. Must be able to put in 10 minutes per day (that's all it takes!). Must have a computer, editor and browser (I'll help you get setup with those)" ,
+     "msg":"👉🏻Take this Complete FULL STACK Web Developer Course and start learning Web Developer today.",
+     "description":{
+            "a":"Over 80,000 students have taken this course. Don't be the one to get left behind! Get started today and join the thousands of students who have taken my course and changed their lives by: making more money, making better websites, building their dream website and completely changed industries (became web developers!). Not sure if this course is for you? Try it out and if you don't like it within the first 30 days, simply request a refund. No questions asked, and you get to keep all the source code, e-books, and more as a thank you for trying this course.",
+            "b":"Hello! I'm Kalob. I've been developing websites since 1999. I'm passionate about education and sharing my knowledge with people like you. I love it so much I've started creating MORE courses and I've dedicated a lot of my life to free coaching and building e-learning platforms. You wouldn't believe the FREEDOM I've had since I officially changed careers and started making websites, professionally. I've lived in Ireland, , worked in the US, Mexico and the UK, and helped build companies around the world. And guess what? Everywhere I go I can work because all I need is a laptop and internet. And I want that for you! Wouldn't it be nice to travel the world and not have to worry about paying your bills? Professional web developers can do that. ",
+            "c":"This was the first 'Complete Web Development' course on Udemy. It's extremely comprehensive and I explain EVERYTHING you need to know, step by step. There's a reason why there are so many 'Complete Web Development' courses on Udemy today -- they took what worked and made spin off courses. Join over 80,000 other students in this massive course! This course is designed for every skill level. Whether you're just learning web development today, or you're already a Python Pro, there's lots to learn for everybody! "
+        },    
+    "course_for": {
+            "a":" 👉🏻Anyone who wants to learn to code",
+            "b":" 👉🏻Anyone who wants to build websites",
+            "c":" 👉🏻Anybody who wants to learn how to create Python or PHP based websites",
+            "d":" 👉🏻Anyone who wants to start their own business or become a freelancer",
+            "e":" 👉🏻Anyone who wants to change careers and get into web development",
+            "f":" 👉🏻People who manage a web site as a volunteer or as a hobby.",
+            "g":" 👉🏻Bloggers-- even if you use Wordpress or another CMS!.",
+            "h":" 👉🏻Anyone else who wants to learn FULL STACK Web Developer Course"           
+        }      
+      },
+      "course_includes":{
+        "a":"67 hours on-demand video",
+        "b":"16 downloadable resources",
+        "c":"21 articles",
+        "d":"Full lifetime access",
+        "e":"Access on mobile and TV",
+        "f":"Certificate of completion"
+      }
+    },
+    {
+      "_id": "01-01-kids-coding-introduction-to-html-css-and-javaScript",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "topic":"Web Development",
+      "rating": { "number": 4.6, "badge": "Excellent", "people": " (2,034 ratings)"},
+      "students": "9,322",
+      "total_view": "10k",
+      "price":29.99,
+      "quantity":0,
+      "language":"English",
+      "title": "Kids Coding - Introduction to HTML, CSS and JavaScript!",
+      "sub_details": "Your kid could be the next Zuckerberg!",
+      "author": {
+        "name": "Md.Omar Faruk",
+        "Last_updated": "2022-11-24",
+        "img": "https://i.ibb.co/BqZGPhh/52702568-243722699865416-4654489155693182976-n.jpg"
+      },
+      "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--HGPHjjIL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1o81e4cmk8vbjna0bf7s.jpg",
+      "learn":{
+        "a":"Learn the basics of computer programming",
+        "b":"Learn CSS",
+        "c":"By the end of the course, students will know the basics of a valuable life long skill",
+        "d":"Learn HTML",
+        "e":"Learn JavaScript",
+        "f":"Lab Solution Sets",
+        "g":"Instructor contact Email for questions and clarifications"
+      },
+      "course_content":{
+       "intro":"Introduction 3 lectures • 9min", 
+       "a":"Let's Begin 33 lectures • 46min",
+       "b":"Let's Learn HTML 88 lectures • 2hr 25min",
+       "c":"CSS 47 lectures • 1hr 35min",
+       "d":"JavaScript 45 lectures • 2hr 4min",
+       "e":"Bonus Lecture: 90% Off Kids Courses 1 lecture • 1min",
+       "f":"Added Soon...",
+       "g":"Added Soon...",
+       "h":"Added Soon...",
+       "i":"Added Soon...",
+       "j":"Added Soon...",
+       "k":"Added Soon..."
+    },
+    "course_content_text":"HTML, CSS and JavaScript! for Beginners • Preview • 02:27",
+    "details": {
+     "requirements":"An internet connection. An up to date web browser. A word processor like notepad." ,
+     "msg":"👉🏻Take this Kids Coding course and start learning HTML, CSS and JavaScript! today.",
+     "description":{
+            "a":"Do your kids spend too much time on the computer, phone or tablet? Don't you wish they could do something more productive? Why not get them to learn a life long valuable skill that will lead them into a career that pays 2 times the national average?  Programming is the new math. The average computer programmer makes 78k a year and there will always be a need for programmers. The only problem is that all of the educational courses are not tailored towards the learning styles of children. Most of the documentation is geared towards people over 18.  This course shows kids how to code by adapting the material to their learning styles. There are animated lectures, informative screencasts and tests. The first portion of the course introduces a lot of data and terminology quickly. You'll jump right in. No second is wasted in this action-packed, captivating course.",
+            "b":"More and more people are learning to code, so do you want your kids to not have the same opportunities as others? This course offers your kids a competitive advantage. Employers look for technical skills and applicants that can code are more attractive to hire. Even if the job isn't technical it always helps to have that technical knowledge to communicate with the technical team. Personally, I like to hire people with programming skills. If they are artists, video editors, or social media marketers, I generally prefer to hire people with programming experience.",
+            "c":"My name is John Bura and I have run the software company Mammoth Interactive. We have had a ton of sales on our software which includes XBOX 360, iPad and iPhone games. On top of this I have been teaching people full time since I was 17. With the combination of teaching experience and real world experience, I have a truly unique experience that you can't find anywhere else. The knowledge I give out is from first hand knowledge of the industry and years of teaching experience. 'This is a great course for beginner programmers. This doesn't have to be for just kids, but for adults too. 'Thank you for considering to purchase my course. Even if you choose to not buy it I wish you and your family a happy road to success."
+        },    
+    "course_for": {
+            "a":" 👉🏻Web Designers looking to improve their skill set.",
+            "b":" 👉🏻Ages 6 and up",
+            "c":" 👉🏻People looking to start programming and need a first programming.",
+            "d":" 👉🏻language to learn.",
+            "e":" 👉🏻Everybody is welcome to attend if they like child oriented products",
+            "f":" 👉🏻People who manage a web site as a volunteer or as a hobby.",
+            "g":" 👉🏻Bloggers-- even if you use Wordpress or another CMS!.",
+            "h":" 👉🏻Anyone Kids who wants to learn Introduction to HTML, CSS and JavaScript!"           
+        }      
+      },
+      "course_includes":{
+        "a":"7 hours on-demand video",
+        "b":"1 downloadable resource",
+        "c":"1 article",
+        "d":"Full lifetime access",
+        "e":"Access on mobile and TV",
+        "f":"Certificate of completion"
+      }
+    },
+    {
+      "_id": "01-01-build-websites-from-scratch-with-html-&-css",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "topic":"Web Development",
+      "badge":"NEW",
+      "rating": { "number": 4.6, "badge": "Excellent", "people": " (12,266 ratings)"},
+      "students": "87,340",
+      "total_view": "90k",
+      "price":99.99,
+      "quantity":0,
+      "language":"English",
+      "title": "Build Websites from Scratch with HTML & CSS",
+      "sub_details": "Learn Web Development Essentials and Become a Web Developer From Scratch in this Complete HTML & CSS Beginner's Course",
+      "author": {
+        "name": "Md.Omar Faruk",
+        "Last_updated": "2022-11-24",
+        "img": "https://i.ibb.co/BqZGPhh/52702568-243722699865416-4654489155693182976-n.jpg"
+      },
+      "image_url": "https://cdn-afnpj.nitrocdn.com/ZQNOAdBFUkrumbJENeLymxhUXBovghIo/assets/static/optimized/rev-da0a56c/wp-content/uploads/2021/03/20945893-1-1.jpg",
+      "learn":{
+        "a":"By the end of this course, you will have a basic & thorough understanding of HTML & CSS",
+        "b":"In the last section of this course, you focus on building a beautiful, semantic, HTML & CSS web page",
+        "c":"Start building beautiful websites by hand",
+        "d":"By the end of this course, you will have impressed yourself, and will be able to hit the ground running with your newly acquired skillset",
+        "e":"Upon completion, you will have coded a handful of useful HTML & CSS examples",
+        "f":"Build a portfolio website, so you can highlight your best web work",
+        "g":"Begin your career as a web developer"
+      },
+      "course_content":{
+       "intro":"Getting Started 11 lectures • 24min", 
+       "a":"Chapter 1: Hello Javascript! 6 lectures • 21min","b":"HTML Foundations: Part I 9 lectures • 26min",
+       "c":"HTML Foundations: Part II 5 lectures • 28min",
+       "d":"HTML Foundations: Part III 4 lectures • 25min","e":"HTML Foundations: Part IV 8 lectures • 40min",
+       "f":"CSS Foundations: Part I 8 lectures • 28min",
+       "g":"CSS Foundations: Part II 6 lectures • 43min",
+       "h":"CSS Foundations: Part III 8 lectures • 1hr 15min",
+       "i":"CSS Foundations: Part IV 7 lectures • 1hr 12min",
+       "j":"Putting It All Together 15 lectures • 1hr 7min",
+       "k":"Lab Solutions 1 lecture • 30min"
+    },
+    "course_content_text":"Scratch with HTML & CSS for Beginners • Preview • 02:27",
+    "details": {
+     "requirements":"Internet Connection, Willingness to Learn, A Text Editor (Free Resources Provided)" ,
+     "msg":"👉🏻Take this course and to learn how to build websites from scratch today.",
+     "description":{
+            "a":"With this online course—from one of Udemy's top web design instructors, Brad Hussey—you will learn HTML & CSS by building beautiful, modern and responsive websites! You will have a strong foundation in web development that will enable you to start creating any website you can imagine. By the end of this course, you will be competent in HTML & CSS and be able to create your own professional-grade website from scratch - no prior experience required! You will also have the skillset necessary to continue learning about web development and advancing your career. Sign up for this online course today and start building your very own websites!",
+            "b":"Every webpage that you see on the internet is built using code. There are many different programming languages that can make your website do various things, but the two most important to learn are HTML and CSS. In fact, even people who plan on allowing someone else to build their website should have a basic grasp of both languages. This way you can tweak things behind the scenes, or change some of your formatting without having to always rely on others.",
+            "c":"This course of more than 77 lectures and 8 hours of content gives you a basic, yet thorough understanding of both HTML and CSS. The course focuses on having you begin writing code right away so you can learn through doing, and build your own completely functional HTML and CSS webpage at the end. You'll begin by learning what HTML and CSS are, so you can get an understanding of what it is that they do. During the course you'll build several mini-websites that take what it is that you've learned and apply it to real world exercises to help cement the skills. Everyone from aspiring web designers to bloggers, programmers to business owners, company employees and tech hobbyists can benefit from learning some HTML and CSS! Learn to build your own dynamic and beautiful websites or manage the website that you already have."
+        },    
+    "course_for": {
+            "a":" 👉🏻Total Beginners",
+            "b":" 👉🏻Web Design Students",
+            "c":" 👉🏻Web Design Beginners",
+            "d":" 👉🏻Computer Programmers",
+            "e":" 👉🏻Bloggers",
+            "f":" 👉🏻Aspiring Web Designers",
+            "g":" 👉🏻People who desire a new career path",
+            "h":" 👉🏻Anyone else who wants to learn Scratch with HTML & CSS"           
+        }      
+      },
+      "course_includes":{
+        "a":"7 hours on-demand video",
+        "b":"8 downloadable resources",
+        "c":"2 coding exercises",
+        "d":"Full lifetime access",
+        "e":"Access on mobile and TV",
+        "f":"Certificate of completion"
+      }
+    },
+    {
+      "_id": "02-02-data-science-a-z-real-life-data-science-exercises-included",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "topic":"Data Science",
+      "rating": { "number": 4.5, "badge": "Excellent", "people": " (32,666 ratings)"},
+      "students": "202,340",
+      "total_view": "200k",
+      "price":199.99,
+      "quantity":0,
+      "language":"English",
+      "title": "Data Science A-Z™: Real-Life Data Science Exercises Included",
+      "sub_details": "Learn Data Science step by step through real Analytics examples. Data Mining, Modeling, Tableau Visualization and more!",
+      "author": {
+        "name": "Md.Omar Faruk",
+        "Last_updated": "2022-11-24",
+        "img": "https://i.ibb.co/BqZGPhh/52702568-243722699865416-4654489155693182976-n.jpg"
+      },
+      "image_url": "https://cdn.hackr.io/uploads/posts/large/1580982323TSVNxJcv3J.png",
+      "learn":{
+        "a":"Successfully perform all steps in a complex Data Science project",
+        "b":"Perform Data Mining in Tableau",
+        "c":"Apply Ordinary Least Squares method to Create Linear Regressions",
+        "d":"Transform independent variables for modelling purposes",
+        "e":"Create Scripts in SQL",
+        "f":"Assess R-Squared for all types of models",
+        "g":"Build the CAP curve in Excel"
+      },
+      "course_content":{
+       "intro":"Get Excited 3 lectures • 5min", 
+       "a":"What is Data Science? 6 lectures • 21min",
+       "b":"How to use Tableau for Data Mining 9 lectures • 50min",
+       "c":"Advanced Data Mining With Tableau 12 lectures • 1hr 29min",
+       "d":"Stats Refresher 6 lectures • 32min",
+       "e":"Simple Linear Regression 6 lectures • 23min",
+       "f":"Multiple Linear Regression 11 lectures • 1hr 31min",
+       "g":"Introduction to Tableau 10 lectures • 56min",
+       "h":"Added Soon...",
+       "i":"Added Soon...",
+       "j":"Added Soon...",
+       "k":"Lab Solutions 1 lecture • 30min"
+    },
+    "course_content_text":"Data Science A-Z for Beginners • Preview • 02:27",
+    "details": {
+     "requirements":"Only a passion for success. All software used in this course is either available for Free or as a Demo version" ,
+     "msg":"👉🏻Take this course and learn Real-Life Data Science today.",
+     "description":{
+            "a":"Extremely Hands-On... Incredibly Practical... Unbelievably Real! This is not one of those fluffy classes where everything works out just the way it should and your training is smooth sailing. This course throws you into the deep end. In this course you WILL experience firsthand all of the PAIN a Data Scientist goes through on a daily basis. Corrupt data, anomalies, irregularities - you name it! This course will give you a full overview of the Data Science journey. Upon completing this course you will know: How to clean and prepare your data for analysis,  How to perform basic visualisation of your data, How to model your data, How to curve-fit your data, And finally, how to present your findings and wow the audience.",
+            "b":"This course will give you so much practical exercises that real world will seem like a piece of cake when you graduate this class. This course has homework exercises that are so thought provoking and challenging that you will want to cry... But you won't give up! You will crush it. In this course you will develop a good understanding of the following tools: SQL, SSIS, Tableau, Gretl.",
+            "c":"This course has pre-planned pathways. Using these pathways you can navigate the course and combine sections into YOUR OWN journey that will get you the skills that YOU need. Or you can do the whole course and set yourself up for an incredible career in Data Science. The choice is yours. Join the class and start learning today!"
+        },    
+    "course_for": {
+            "a":" 👉🏻Anybody with an interest in Data Science",
+            "b":" 👉🏻Anybody who wants to improve their data mining skills",
+            "c":" 👉🏻Anybody who wants to improve their statistical modelling skills",
+            "d":" 👉🏻Anybody who wants to improve their data preparation skills",
+            "e":" 👉🏻Anybody who wants to improve their Data Science presentation skills",
+            "f":" 👉🏻Aspiring Data Science",
+            "g":" 👉🏻People who desire a new career path",
+            "h":" 👉🏻Anyone else who wants to learn Data Science"           
+        }      
+      },
+      "course_includes":{
+        "a":"21 hours on-demand video",
+        "b":"7 articles",
+        "c":"2 coding exercises",
+        "d":"Full lifetime access",
+        "e":"Access on mobile and TV",
+        "f":"Certificate of completion"
+      }
+    },
+    {
+      "_id": "01-01-2022M-machine-learning-and-deep-learning-bootcamp-in-python",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "topic":"Data Science",
+      "badge":"NEW",
+      "rating": { "number": 4.8, "badge": "Excellent", "people": " (14,266 ratings)"},
+      "students": "80,340",
+      "total_view": "80k",
+      "price":119.99,
+      "quantity":0,
+      "language":"English",
+      "title": "[2022] Machine Learning and Deep Learning Bootcamp in Python",
+      "sub_details": "Machine Learning, Neural Networks, Computer Vision, Deep Learning and Reinforcement Learning in Keras and TensorFlow",
+      "author": {
+        "name": "Md.Omar Faruk",
+        "Last_updated": "2022-11-24",
+        "img": "https://i.ibb.co/BqZGPhh/52702568-243722699865416-4654489155693182976-n.jpg"
+      },
+      "image_url": "https://cdn.activestate.com/wp-content/uploads/2021/03/How-to-label-data-for-machine-learning-in-python-qr-cover.jpg",
+      "learn":{
+        "a":"Face detection with OpenCV",
+        "b":"Solving regression problems (linear regression and logistic regression)",
+        "c":"Deep learning - deep neural networks, convolutional neural networks (CNNS), recurrent neural networks (RNNs)",
+        "d":"Solving classification problems (naive Bayes classifier, Support Vector Machines - SVMs)",
+        "e":"The most up to date machine learning techniques used by firms such as Google or Facebook",
+        "f":"TensorFlow and Keras",
+        "g":"Reinforcement learning - Q learning and deep Q learning approaches"
+      },
+      "course_content":{
+       "intro":"Introduction 1 lecture • 3min", 
+       "a":"Environment Setup 3 lectures • 3min",
+       "b":"Artificial Intelligence Basics 3 lectures • 21min",
+       "c":"### MACHINE LEARNING ### 1 lecture • 1min",
+       "d":"Linear Regression 6 lectures • 43min",
+       "e":"Logistic Regression 6 lectures • 45min",
+       "f":"Cross Validation 2 lectures • 11min",
+       "g":"K-Nearest Neighbor Classifier 8 lectures • 41min",
+       "h":"Naive Bayes Classifier 7 lectures • 47min",
+       "i":"CSS Foundations: Part IV 7 lectures • 1hr 12min",
+       "j":"Support Vector Machines (SVMs) 11 lectures • 1hr 19min",
+       "k":"Lab Solutions 1 lecture • 30min"
+    },
+    "course_content_text":"Machine Learning for Beginners • Preview • 02:27",
+    "details": {
+     "requirements":"Basic Python - we will use Panda and Numpy as well (we will cover the basics during implementations)" ,
+     "msg":"👉🏻Interested in Machine Learning, Deep Learning and Computer Vision? Then this course is for you!",
+     "description":{
+            "a":"This course is about the fundamental concepts of machine learning, deep learning, reinforcement learning and machine learning. These topics are getting very hot nowadays because these learning algorithms can be used in several fields from software engineering to investment banking. In each section we will talk about the theoretical background for all of these algorithms then we are going to implement these problems together. We will use Python with SkLearn, Keras and TensorFlow.",
+            "b":"You will get lifetime access to 150+ lectures plus slides and source codes for the lectures! This course comes with a 30 day money back guarantee! If you are not satisfied in any way, you'll get your money back.",
+            "c":"So what are you waiting for? Learn Machine Learning, Deep Learning and Computer Vision in a way that will advance your career and increase your knowledge, all in a fun and practical way! Thanks for joining the course, let's get started!"
+        },    
+    "course_for": {
+            "a":" 👉🏻This course is meant for newbies who are not familiar with machine learning",
+            "b":" 👉🏻Deep learning",
+            "c":" 👉🏻Computer vision and reinforcement learning ",
+            "d":" 👉🏻Students looking for a quick refresher",
+            "e":" 👉🏻Machine Learning",
+            "f":" 👉🏻Aspiring Machine Learning",
+            "g":" 👉🏻People who desire a new career path",
+            "h":" 👉🏻Anyone else who wants to learn Machine Learning"           
+        }      
+      },
+      "course_includes":{
+        "a":"32.5 hours on-demand video",
+        "b":"9 downloadable resources",
+        "c":"35 articles",
+        "d":"Full lifetime access",
+        "e":"Access on mobile and TV",
+        "f":"Certificate of completion"
+      }
+    },
+    {
+      "_id": "03-03-build-android-apps-with-app-inventor-2-no-coding-required",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "topic":"Mobile Development",
+      "badge":"NEW",
+      "rating": { "number": 4.8, "badge": "Excellent", "people": " (4,266 ratings)"},
+      "students": "8,340",
+      "total_view": "8k",
+      "price":99.99,
+      "quantity":0,
+      "language":"English",
+      "title": "Build Android Apps with App Inventor 2 - No Coding Required",
+      "sub_details": "Android application,App Inventor 2,Google Play Store,Basic Programming",
+      "author": {
+        "name": "Md.Omar Faruk",
+        "Last_updated": "2022-11-24",
+        "img": "https://i.ibb.co/BqZGPhh/52702568-243722699865416-4654489155693182976-n.jpg"
+      },
+      "image_url": "https://images.hahow.in/images/586d9c92f108e00800c28464",
+      "learn":{
+        "a":"Create Android Applications using App Inventor 2.",
+        "b":"Understand how to update created applications once they have been published to the Google Play Store.",
+        "c":"Understand the basics of programming.",
+        "d":"Understand how to publish created applications to the Google Play Store.",
+        "e":"Navigate and use the App Inventor 2 interface fluidly, effectively and efficiently.",
+        "f":"TensorFlow and Keras",
+        "g":"Reinforcement learning - App learning and deep App learning approaches"
+      },
+      "course_content":{
+       "intro":"Introduction 3 lectures • 9min", 
+       "a":"Setting Up App Inventor For Development 7 lectures • 30min",
+       "b":"Breaking Down The Component Editor 7 lectures • 19min",
+       "c":"Breaking Down The Blocks Editor 5 lectures • 15min",
+       "d":"Your First App: Hello Purr 8 lectures • 16min",
+       "e":"Your Second App: Audiobook Log 14 lectures • 49min",
+       "f":"Your Third App : Skeleton Review 12 lectures • 56min",
+       "g":"Your Fourth App: My Business App 14 lectures • 1hr 5min",
+       "h":"Your Fifth App: Free Form Task List 17 lectures • 1hr 40min",
+       "i":"Your Sixth App: Auto Reply Text Messaging App 16 lectures • 1hr 17min",
+       "j":"Getting Your App To The Market 9 lectures • 35min",
+       "k":"Lab Solutions 1 lecture • 30min"
+    },
+    "course_content_text":"App Learning for Beginners • Preview • 02:27",
+    "details": {
+     "requirements":"Students should have an adequate internet connection. Students should have a basic understanding of what an Android application is." ,
+     "msg":"👉🏻Interested in App Learning, Deep Learning and Android & ISO Vision? Then this course is for you!",
+     "description":{
+            "a":"Everybody has a great idea for an app. The problem is, not many of those people have the skills or knowledge required to make that idea a reality. Building an app, regardless of its simplicity or platform, requires certain technical know-how like coding, UX/UI design, and more. App Inventor 2, however, cuts through all of the smoke and allows anyone - even those with no coding experience - to build Android apps from the ground up. This course will teach you how.",
+            "b":"This course will teach you everything you need to know about building apps - without the complicated coding normally required. If you have a good internet connection, a basic understanding of what an Android app is, and a great idea for an app that doesn't yet exist, then you're the perfect candidate! While the course is aimed at beginner programmers or those with no coding experience whatsoever, experienced app builders who want to learn from a new angle will benefit too.",
+            "c":"During the 204 lectures and 17 hours of content contained within this course, you'll learn the basics of programming in a fun and practical way, while creating fully fledged, ready-to-use Android apps. You'll start off with setting up App Inventor 2 and choosing the options you'll need for your future apps. Then you'll get to know the interface and tools before diving straight in and creating not one, not two, but TEN apps. These apps will increase in complexity as you work through them, using features such as the component editor and blocks editor."
+        },    
+    "course_for": {
+            "a":" 👉🏻Any person who has a desire to create Android applications but that might be daunted by the idea of programming.",
+            "b":" 👉🏻Any person who has a great idea for an Android application that they want to see come to life.",
+            "c":" 👉🏻Any person who wants learn the basics of programming in a fun and practicle way",
+            "d":" 👉🏻Experienced programmers who already have knowledge in creating Android applications.",
+            "e":" 👉🏻APP Learning",
+            "f":" 👉🏻Aspiring App Learning",
+            "g":" 👉🏻People who desire a new career path",
+            "h":" 👉🏻Anyone else who wants to learn App Learning"           
+        }      
+      },
+      "course_includes":{
+        "a":"17 hours on-demand video",
+        "b":"5 downloadable resources",
+        "c":"5 articles",
+        "d":"Full lifetime access",
+        "e":"Access on mobile and TV",
+        "f":"Certificate of completion"
+      }
+    },
+    {
+      "_id": "03-03-create-your-first-react-native-app",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "topic":"Mobile Development",
+      "rating": { "number": 4.3, "badge": "Excellent", "people": " (5,266 ratings)"},
+      "students": "8,340",
+      "total_view": "8k",
+      "price":39.99,
+      "quantity":0,
+      "language":"English",
+      "title": "Create Your First React Native App",
+      "sub_details": "A crash course in building your first React Native app in a weekend or less!",
+      "author": {
+        "name": "Md.Omar Faruk",
+        "Last_updated": "2022-11-24",
+        "img": "https://i.ibb.co/BqZGPhh/52702568-243722699865416-4654489155693182976-n.jpg"
+      },
+      "image_url": "https://ixorasolution.com/images/blog_images/52/iXora-Solution-React-native-development.png",
+      "learn":{
+        "a":"How to use the most common React Native components",
+        "b":"Setup various types of navigation",
+        "c":"Confidently create future React Native applications",
+        "d":"Install and configure third party packages",
+        "e":"Design reusable React Native components",
+        "f":"TensorFlow and Keras",
+        "g":"Reinforcement learning - React Native learning and deep React Native learning approaches"
+      },
+      "course_content":{
+       "intro":"Getting Started 6 lectures • 21min", 
+       "a":"Building the Contact List 12 lectures • 41min",
+       "b":"Basics of Navigation 7 lectures • 14min",
+       "c":"Building the User Details Screen 11 lectures • 58min",
+       "d":"Tab Navigation 5 lectures • 13min",
+       "e":"Drawer Navigator 7 lectures • 20min",
+       "f":"Building the Me Screen 5 lectures • 13min",
+       "g":"Building the Add Screen 8 lectures • 33min",
+       "h":"Moving Forward 1 lecture • 1min",
+       "i":"Added Soon...",
+       "j":"Added Soon...",
+       "k":"Lab Solutions 1 lecture • 30min"
+    },
+    "course_content_text":"React Native for Beginners • Preview • 02:27",
+    "details":{
+     "requirements":"Basics of Javascript and some ES6 syntax. Comfortable using the command line (basic usage in this course)" ,
+     "msg":"👉🏻Interested in App Learning, Deep Learning and Android Vision? Then this course is for you!",
+     "description":{
+            "a":"Interested in learning React Native but don't want to spend the hours and hours searching for answers to errors you've never seen before, hunting down the right packages, frustratingly asking yourself why you can't figure something so seemingly simple out, and becoming best friends with user90210 on Stack Overflow? This course is designed to get you up and running with React Native as quickly as possibly while introducing you to the most critical pieces of React Native development. It's not the end-all-be-all - it's designed to get you started fast while building a firm foundation.",
+            "b":"There's nothing like building your first app - and that's what this course will help you accomplish. React Native enables anyone with a computer and basic Javascript knowledge to develop native apps quickly and provide a user experience that no other Javascript based mobile solution has been able to provide before. With the likes of Facebook, Airbnb, Instagram, Tesla, and dozens more - there's no doubt that React Native is the right solution for your mobile app.",
+            "c":"Well, how do you feel about it? Are you confident in the choices you made? Do you feel like you've got a solid foundation of knowledge and experience? If so, then this course probably isn't for you. However, if you feel like you were hacking a lot of things together, pasting code from Stack Overflow that you didn't truly understand, then you should consider joining."
+        },    
+    "course_for": {
+            "a":" 👉🏻People wanting to get started with React Native and want a quick win",
+            "b":" 👉🏻React Native developers who want to strengthen their foundation of knowledge",
+            "c":" 👉🏻Anyone wanting to get started with React Native",
+            "d":" 👉🏻Developers looking for an alternative to their Cordova based applications",
+            "e":" 👉🏻App Learning",
+            "f":" 👉🏻Aspiring App Learning",
+            "g":" 👉🏻People who desire a new career path",
+            "h":" 👉🏻Anyone else who wants to learn App Learning"           
+        }      
+      },
+      "course_includes":{
+        "a":"3.5 hours on-demand video",
+        "b":"7 downloadable resources",
+        "c":"21 articles",
+        "d":"Full lifetime access",
+        "e":"Access on mobile and TV",
+        "f":"Certificate of completion"
+      }
+    },
+    {
+      "_id": "04-04-C-programming-for-beginners",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "04",
+      "topic":"Programming Languages",
+      "badge":"NEW",
+      "rating": { "number": 4.3, "badge": "Excellent", "people": " (4,266 ratings)"},
+      "students": "6,340",
+      "total_view": "6k",
+      "price":149.99,
+      "quantity":0,
+      "language":"English",
+      "title": "C Programming For Beginners",
+      "sub_details": "Learn C in ten easy steps on Windows, Mac OS X or Linux",
+      "author": {
+        "name": "Md.Omar Faruk",
+        "Last_updated": "2022-11-24",
+        "img": "https://i.ibb.co/BqZGPhh/52702568-243722699865416-4654489155693182976-n.jpg"
+      },
+      "image_url": "https://i.pinimg.com/736x/ec/29/74/ec2974b3e78fcbb2600af2e61c3c7b8d.jpg",
+      "learn":{
+        "a":"Master C programming concepts from the ground up",
+        "b":"Understand the special features of C: pointers, header files, null-terminated strings, buffers, IO",
+        "c":"Read the supplied eBook, The Little Book Of C, to explore the topics in even more depth",
+        "d":"Use the source code examples to learn step-by-step",
+        "e":"Videos explain everything in minute detail",
+        "f":"Test your understanding with end-of-section quizzes",
+        "g":"Reinforcement learning - C programming learning and deep C programming learning approaches"
+      },
+      "course_content":{
+       "intro":"Getting Ready 15 lectures • 50min", 
+       "a":"C programming basics 6 lectures • 27min",
+       "b":"Variables, constants and types 5 lectures • 22min",
+       "c":"Operators, tests and user input 9 lectures • 51min",
+       "d":"Functions, arguments and switch 4 lectures • 28min",
+       "e":"Arrays, loops and break 7 lectures • 35min",
+       "f":"Strings, chars and pointers 8 lectures • 44min",
+       "g":"Structs, enums, header files and scope 9 lectures • 47min",
+       "h":"File-handling 5 lectures • 19min",
+       "i":"Binary files and memory allocation 8 lectures • 42min",
+       "j":"Added Soon...",
+       "k":"Lab Solutions 1 lecture • 30min"
+    },
+    "course_content_text":"C Programming for Beginners • Preview • 02:27",
+    "details": {
+     "requirements":"A C compiler and code editor (both are available free)" ,
+     "msg":"👉🏻Interested in C Programming Learning, Deep Learning and C Programming Vision? Then this course is for you!",
+     "description":{
+            "a":"The fastest, easiest way to learn to program C on a Mac or Windows. This course will teach you to program the C language from the ground up. You will learn everything from the very fundamentals of programming right through to the complexities of pointers, addresses and File IO. Maybe you've tried to master C before but failed. Or maybe you are new to C or new to programming. If so, this is the course for you!",
+            "b":"C is one of the most important of all programming languages. It is used to program desktop applications, compilers, tools and utilities and even hardware devices. The C language is fast and efficient - but it can be hard to learn. Unless you use this course. This course begins with a gentle introduction to C but quickly moves on to explain some of its most confusing features: everything from C's 'scoping' rules to the curious connection between arrays and memory addresses. By the end of the course you will have a deep understanding both of the C language itself and also of the underlying 'architecture' of your computer.",
+            "c":"What you will learn: The fundamentals of programming - from the ground up. How to program on a Mac or on Windows. The nitty-gritty details of the C language. Advanced topics such as memory allocation, the stack and heap, and binary file IO. Who should take the course: Beginners - if you've never coded before, you can learn C step by step. Programmers switching to C from some other language such as Java, Ruby or Python. Cross-platform developers - there are C compilers for all major operating systems. Anyone who needs to program C++ or Objective-C. The C language is the place to start"
+        },    
+    "course_for": {
+            "a":" 👉🏻Newcomers to programming",
+            "b":" 👉🏻Programmers of other languages who want a fast way into C",
+            "c":" 👉🏻Anyone who needs to master C as a basis for using C++ or Objective-C",
+            "d":" 👉🏻Developers looking for an alternative to their Cordova based applications",
+            "e":" 👉🏻programming Learning",
+            "f":" 👉🏻Aspiring programming Learning",
+            "g":" 👉🏻People who desire a new career path",
+            "h":" 👉🏻Anyone else who wants to learn programming Learning"           
+        }      
+      },
+      "course_includes":{
+        "a":"6 hours on-demand video",
+        "b":"4 downloadable resources",
+        "c":"8 articles",
+        "d":"Full lifetime access",
+        "e":"Access on mobile and TV",
+        "f":"Certificate of completion"
+      }
+    },
+    {
+      "_id": "05-05-the-ultimate-guide-to-game-development-with-unity",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "05",
+      "topic":"Game Development",
+      "badge":"NEW",
+      "rating": { "number": 4.6, "badge": "Excellent", "people": " (15,266 ratings)"},
+      "students": "18,340",
+      "total_view": "18k",
+      "price":199.99,
+      "quantity":0,
+      "language":"English",
+      "title": "The Ultimate Guide to Game Development with Unity (Official)",
+      "sub_details": "Created in partnership with Unity Technologies: learn C# by developing 2D & 3D games with this comprehensive guide",
+      "author": {
+        "name": "Md.Omar Faruk",
+        "Last_updated": "2022-11-24",
+        "img": "https://i.ibb.co/BqZGPhh/52702568-243722699865416-4654489155693182976-n.jpg"
+      },
+      "image_url": "https://blog.potenzaglobalsolutions.com/wp-content/uploads/2021/06/5-Rarely-Known-Advantages-And-Disadvantages-Of-Unity-Game-Development.jpg",
+      "learn":{
+        "a":"Master beginner C# concepts, like variables, 'if' statements, and arrays",
+        "b":"Create power-ups including triple shots, laser beams, speed boosts, and shields",
+        "c":"Create enemies with basic AI behavior",
+        "d":"Implement sound effects, background music, and particle effects",
+        "e":"Navigate the Unity Engine and discover unique features like the Asset Store",
+        "f":"Activate and use Unity's Team Collaboration service",
+        "g":"Deploy your game to over 20 web or mobile platforms"
+      },
+      "course_content":{
+       "intro":"Introduction 6 lectures • 17min", 
+       "a":"Galaxy Shooter 1 lecture • 1min",
+       "b":"Project Setup 7 lectures • 23min",
+       "c":"Create the Player 14 lectures • 1hr 7min",
+       "d":"Shooting 12 lectures • 38min",
+       "e":"Enemies 9 lectures • 37min",
+       "f":"Spawn Manager 6 lectures • 30min",
+       "g":"Prototype to Production 5 lectures • 23min",
+       "h":"Power Up - Triple Shot 14 lectures • 35min",
+       "i":"Power Up - Speed Boost 9 lectures • 32min",
+       "j":"Publish to Google Play Store 4 lectures • 21min",
+       "k":"Lab Solutions 1 lecture • 30min"
+    },
+    "course_content_text":"Game Development for Beginners • Preview • 02:27",
+    "details": {
+     "requirements":"No prior programming or Unity experience is required. If you have worked in C# or Unity before, this course can help you fine-tune your game development skills. In this course, I will walk you through installing Unity on your computer. It will be helpful if you are comfortable with installing your own software. A basic understanding of mathematics (order of operations, addition, subtraction, multiplication) will facilitate comprehension of certain coding logic. Before beginning this course, you should be comfortable browsing the Web" ,
+     "msg":"👉🏻Interested in Game Learning, Deep Learning and Game Development? Then this course is for you!",
+     "description":{
+            "a":"If you are interested in developing amazing, commercial-quality games that are playable on a variety of platforms, then you've come to the right place. This Unity course is the only one of its kind that is approved by Unity Technologies on Udemy. What better way to learn how to develop games in Unity than with their authorized course? The Ultimate Guide to Game Development with Unity introduces you to the Unity Engine and to the fundamentals of C# programming. The course then dives into developing your first 2D and 3D games. You will discover how to set your games apart from the crowd by polishing them with Unity's latest features, including post-processing effects and the animation system.",
+            "b":"The gaming industry is a $200 billion industry worldwide. By 2025, that number is expected to be near $300 billion. With Unity being the most widely used engine to develop games across multiple platforms, there has never been a better time to get into the field. As you will learn, the types of games you can create with Unity and C# are limitless. Game development makes a great hobby, allowing you to learn a new skill and play your game with family and friends. It is also an exciting and rewarding career, where plenty of successful developers, including myself, have learned the fundamentals of game development through courses like this, and not in the traditional classroom setting. Every great game starts somewhere, so why not make it yours? While people often find coding or making games intimidating, this Unity course utilizes a unique teaching method that will allow you to gain a thorough understanding of concepts while you develop your own games. Thanks to the Unity community, you'll be able to connect with other developers, work together on new projects, and make some incredible games!",
+            "c":"This is the first and only Unity game development course that has been co-created with Unity Technologies on Udemy.  Because learning to code can be daunting, Unity Technologies wanted to create a course that helps new developers feel comfortable exploring the engine and developing games. I believe that the best way to learn how to code is by doing. Therefore, this is a highly interactive series that does not spoon-feed you the answers. The unique challenges integrated throughout this Unity course will ensure you not only know how to code something, but also understand the logic behind it. As a self-taught software engineer, I found that there simply weren't any high-quality video tutorials that allowed beginners to truly grasp concepts essential to game development. To remedy this, I created my own YouTube video series focused on Unity game development, where I've had the privilege of helping thousands of other people grow their passion for game development. "
+        },    
+    "course_for": {
+            "a":" 👉🏻The ideal student for this course is someone who is interested in game development with Unity and C# and is looking for an interactive, project-based course.",
+            "b":" 👉🏻People interested in developing commercial quality 2D and 3D games either professionally or as a hobby.",
+            "c":" 👉🏻Anyone seeking an understanding of best coding practices such as organization with your project and optimal development workflow that are essential to game development.",
+            "d":" 👉🏻This course is not for someone who is an advanced game developer. This course is also not for students who are not interested in learning to code as you will get an introduction to the fundamentals of C# programming.",
+            "e":" 👉🏻C programming Learning",
+            "f":" 👉🏻Aspiring C programming Learning",
+            "g":" 👉🏻People who desire a new career path",
+            "h":" 👉🏻Anyone else who wants to learn C programming Learning"           
+        }      
+      },
+      "course_includes":{
+        "a":"36.5 hours on-demand video",
+        "b":"6 downloadable resources",
+        "c":"30 articles",
+        "d":"Full lifetime access",
+        "e":"Access on mobile and TV",
+        "f":"Certificate of completion"
+      }
+    }
+  
+   
+]

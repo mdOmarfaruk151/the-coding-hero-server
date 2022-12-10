@@ -1,0 +1,26 @@
+[
+    {
+      "id": "01",
+      "name": "Web Development"
+    },
+    {
+      "id": "02",
+      "name": "Data Science"
+    },
+    {
+      "id": "03",
+      "name": "Mobile Development"
+    },
+    {
+      "id": "04",
+      "name": "Programming Languages"
+    },
+    {
+      "id": "05",
+      "name": "Game Development"
+    },
+    {
+      "id": "06",
+      "name": "All Courses"
+    }
+  ]

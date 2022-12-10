@@ -1,0 +1,93 @@
+[
+    {
+        "id":"001c",
+        "category_id":"01",
+        "topic":"Cors",
+        "date":"01-12-2022",
+        "author":"Md. Omar Faruk",
+        "rating":4.5,
+        "total_view": "3k",
+        "author_img":"https://i.ibb.co/BqZGPhh/52702568-243722699865416-4654489155693182976-n.jpg",
+        "post_img": "https://simplelocalize.io/blog/what-is-cors.jpg",
+        "question": " What is cors?",
+        "ans": "Cross-Origin Resource Sharing (CORS) is an HTTP-based security mechanism controlled and enforced by the client (web browser). It allows a service (API) to indicate any origin other than its own from which the client can request resources. It has been designed in response to the same-origin policy (SOP) that restricts how a website (HTML document or JS script) loaded by one origin can interact with a resource from another origin. CORS is used to explicitly allow some cross-origin requests while rejecting others. CORS is implemented primarily in web browsers, but it can also be used in API clients as an option. It's present in all popular web browsers like Google Chrome, Firefox, Opera, and Safari. The standard has been accepted as a W3C Recommendation in January 2014. Based on that, we can assume that it is implemented in all currently available and other than listed web browsers." 
+        
+    },
+    {
+        "id":"002f",
+        "category_id":"02",
+        "topic":"Firebase",
+        "date":"01-12-2022",
+        "author":"Md. Omar Faruk",
+        "rating":5,
+        "total_view": "2k",
+        "author_img":"https://i.ibb.co/BqZGPhh/52702568-243722699865416-4654489155693182976-n.jpg",
+        "post_img": "https://firebasetutorials.com/wp-content/uploads/2019/12/Why-firebase-is-used-1170x777.png",
+        "Analytics_img":"http://firebasetutorials.com/wp-content/uploads/2019/12/Firebase-Analytics-1-1536x859-1-scaled.png",
+        "remote_config_img":" http://firebasetutorials.com/wp-content/uploads/2019/12/Firebase-Remote-Config-1-scaled.png",
+        "database_img":"http://firebasetutorials.com/wp-content/uploads/2019/12/Firebase-Realtime-Database-scaled.png",
+        "cloud_messaging_img":"http://firebasetutorials.com/wp-content/uploads/2019/12/Firebase-Cloud-Messaging-1-scaled.png",
+        "authentication_img":"http://firebasetutorials.com/wp-content/uploads/2019/12/Firebase-Authentication-1-scaled.png",
+        "question": " Why are you using firebase?",
+        "ans": "Analytics: Firebase Analytics is a product that I think every scale, type, kind of developer must use. It gives such an in-depth view of your product that can help you grow and make your marketing strategies. And that is totally free. You can easily identify the issues with your app that are related to the users that come and visit your app. You need to write code for customized analytics to appear in Firebase Console; otherwise, it logs pretty much everything necessary.   👉🏻 Remote Config: Firebase Remote Config lets you do the A/B testing, provide a personalized experience and much more, totally depends on how you use it. You basically store the key-values in Firebase Console and then retrieve them in your app. You can set different values for different OS versions, region, app version, and a lot more. If you haven't given it a try, then I would highly urge you to explore this fantastic product and check out how you can implement ant benefit from it. 👉🏻 Database: Firebase Database is something we can call super amazing! It provides two types of database to you. 👉🏻 Firebase Realtime Database 👉🏻 Firebase Cloud Firestore. Both of these databases are real time-savers. Realtime Database stores data in a JSON object and provide it to all connected clients in realtime where Firebase Cloud Firestore saves data in documents and collections. Both of these are highly flexible, scalable and NoSQL databases. Giving another big reason for developers to start using Firebase. 👉🏻Cloud Messaging: Firebase Cloud Messaging is also a convenient and useful product; its basic functionality is implemented as soon as you put its dependency on Android Studio. You can choose user segments that you want to target for push notifications and after sending you can also see the percentage of users who opened the notification. 👉🏻 Authentication: Firebase Authentication can help you to implement the feature that a newbie can dream of, like doing email/SMS verification, letting users sign in/sign up. It saves a ton of time by providing a simple way to handle the sign-in/signup process. The best part is that it builds trust and increases the users' base of your app that makes it more professional, better, and faster."
+           
+    }, 
+    {
+        "id":"002fa",
+        "category_id":"02",
+        "topic":"Firebase",
+        "date":"01-12-2022",
+        "author":"Md. Omar Faruk",
+        "rating":4.9,
+        "total_view": "4k",
+        "author_img":"https://i.ibb.co/BqZGPhh/52702568-243722699865416-4654489155693182976-n.jpg",
+        "post_img":"https://geekflare.com/wp-content/uploads/2022/02/user-authentication.png",
+        "STYTCH_img":"https://geekflare.com/wp-content/uploads/2022/02/stytch.png",
+        "Ory_img":"https://geekflare.com/wp-content/uploads/2022/02/ory-user-authentication.png",
+        "Okta_img":"https://geekflare.com/wp-content/uploads/2022/02/okta-user-authentication.png",
+        "Authress_img":"https://geekflare.com/wp-content/uploads/2022/02/authress.png",
+        "Auth0_img":"https://geekflare.com/wp-content/uploads/2022/02/auth0-1.png",
+        "question": "What other options do you have to implement authentication?",
+        "ans":"Since user data is a lot more serious than wasting a pepperoni pizza, let's check out some user authentication platforms. And while an average business person will straightaway run towards Auth0 or Firebase, there are others as well. 👉🏻STYTCH: STYTCH is a staunch supporter of password-less authentication. It is focused on improving user experience and cutting developer headaches by doing just that. Password-less authentication is very similar to using Slack. They allow for 3rd-party logins or send an email link for authentication but never use passwords. STYTCH calls them magic links. You can use their SDKs for quick deployment or direct API to use the authentication method of your choice. There are multiple ways available such as social logins, SMS/WhatsApp/Email passcodes, email magic links, TOTP apps, etc. STYTCH has flexible pricing that adjusts as per your active user base. And there is a free USD 100 worth of credits as the welcome package. 👉🏻Ory: Ory brings complete user experience control with its headless user authentication management. There is a free tier and a cloud one if you intend to use a custom domain. Besides, Ory lets you create custom identity schemas to build personalized user authentication/registration forums. It also supports building single-page applications using React, Next.js, Gatsby, and AngularJS. With Ory, developers can test and validate the system without needing to code. Ory presents itself as a complete authentication and authorization platform with identity & permission management. It is a zero-trust network that is compatible with OAuth2 and OpenID Connect. Ory also comes with FIDO 2 compatible two-factor authentication (2FA) and a command-line developer-friendly interface. Finally, you can start with a free-forever plan and upgrade if need be. 👉🏻Okta: Okta is again a flagbearer of password-less security. However, you can ask for the strongest passwords with Okta as well. In addition to tweaking password requirements, you can also enable multi-factor authentication (MFA). Moreover, one can set up Okta's cloud authentication and let the users sign in via biometrics or push notifications. Besides, you get a real-time Syslog with advanced searches to identify issues for instant troubleshooting. Okta gives importance to progressive profiling, which means minimum upfront information at registrations. The aim is to minimize user inconvenience, boost registrations, and gradually complete the user profile. Okta allows for excellent API security by integrating identity protocols like OAuth. And you will have a single point for all API authorization policies to integrate security and development. And finally, it permits easy B2B integrations with security frameworks such as OpenID Connect and SAML in addition to legacy support for turnkey Active Directory & LDAP integration. 👉🏻Authress: With its long list of features, Authress seems a brilliant user authentication and a Firebase alternative. Authress bets heavily on its authorization API and integration with your existing identity solutions. You can define granular access controls and group them accordingly by user roles. In addition, Authress also has machine-to-machine authentication and unlimited enterprise integrations. Similarly, you can use SSO and any number of social logins for your application authentication. It gives you comprehensive usage logs and unlimited users with import/export support. You can also use your branding with a custom domain. While there is no free-forever subscription, your first 1000 API calls are free with standard and enterprise plans. 👉🏻Auth0: Auth0 is the go-to user authentication platform and a Firebase alternative for good reasons. It features a universal login for all your applications to add user convenience. This is like having SSO between multiple apps. So the user won't get annoyed to log in separately on other apps; instead will be auto-signed in via SSO. There is a central feature control dashboard for social logins, problem detections, and MFA. One can also use custom domains for seamless branding. Moreover, there are password-less magic links for an even better user experience. Auth0 has flexible subscriptions for many use cases, including a free tier."
+    },
+    {
+        "id":"003ps",
+        "category_id":"03",
+        "topic":"Private Route",
+        "date":"01-12-2022",
+        "author":"Md. Omar Faruk",
+        "rating":5,
+        "total_view": "5k",
+        "author_img":"https://i.ibb.co/BqZGPhh/52702568-243722699865416-4654489155693182976-n.jpg",
+        "post_img": "https://cdn.hashnode.com/res/hashnode/image/upload/v1644677452807/XGJeaMjX2.png?w=1200&auto=compress,format&format=webp&fm=png",
+        "question": " How does the private route work?",
+        "ans": "This is a quick example of how to implement a private route component with React Router 6. The private route component is used to protect selected pages in a React app from unauthenticated users. The react private route component renders child components (children) if the user is logged in. If not logged in the user is redirected to the /login page with the return url passed in the location state property. The current logged in user (authUser) is retrieved from Redux state with a call to the useSelector() hook. Redux is used in this example however it is not required to implement a Private Route component in React Router 6. You could use a different state management library or any approach you prefer to get the logged in status of the user. The App component is the root component of the example app, it contains the outer html, main nav and routes for the application. The /login route is public, and the home route (/) is protected by the private route component that uses Redux to check if the user is logged in. The last route is a catch-all redirect route that redirects any unmatched paths to the home page." 
+    },
+    {
+        "id":"004n",
+        "category_id":"04",
+        "topic":"Node",
+        "date":"01-12-2022",
+        "author":"Md. Omar Faruk",
+        "rating":5,
+        "total_view": "6k",
+        "author_img":"https://i.ibb.co/BqZGPhh/52702568-243722699865416-4654489155693182976-n.jpg",
+        "post_img": "https://miro.medium.com/max/828/1*xsQYYYvG-07C3lAYcTvuRA.webp",
+        "question": " What is Node?",
+        "ans": "If you have been coding in JavaScript, you have been using Node.js this whole time. Well, technically this isn't true. When were coding in JavaScript we are using node and the npm library, but it's not really Node.js. When we talk about Node.js, we are implying that we are using it as a way to create server and interact with our database on the backend. So far while doing projects I have only used JavaScript on the front end, in order to avoid refreshing the page, while still rendering new information on the page. With Node.js we are able to use JavaScript on the backend in order to handle requests to different urls. First I'll talk a little about how it works and the difference between conventional servers, then give a brief overview of a test server, and finally discuss the pros and cons of a Node.js backend."
+
+    },
+    {
+        "id":"004nw",
+        "category_id":"04",
+        "topic":"Node",
+        "date":"01-12-2022",
+        "author":"Md. Omar Faruk",
+        "rating":5,
+        "total_view": "2k",
+        "author_img":"https://i.ibb.co/BqZGPhh/52702568-243722699865416-4654489155693182976-n.jpg",
+        "post_img": "https://cdn.educba.com/academy/wp-content/uploads/2019/06/How-Node.JS-Works.jpg",
+        "question": "How does Node work?",
+        "ans": "First of all just like other languages node comes with packages and modules. These are libraries of functions that we can import from npm (node package manager) into our code and utilize. If you have node installed on your computer, then you already have some basic modules installed. These are how we create a simple server, but I'll get to that later. If you are familiar with JavaScript, then you know it is asynchronous and single threaded. The single thread is the event loop which is responsible for running all functions and requests. The asynchronous behavior is extremely important when using node, because it guarantees that the event loop is never blocked by a synchronous function. Even though there is only one event loop, when a request is made the loop passes the request to an asynchronous function which does the work. When this function is done and a response is returned, it can then be passed back to the event loop to be executed by the callback and sent to the user. If the functions were synchronous then the event loop would get locked up with one clients request and response, and all other clients would have to wait till that client was done. Because of the the asynchronous nature of JavaScript, the applications using node can handle many requests happening at the same time. This means that when programming in Node.js it is important to always keep in mind that the functions being written are not synchronous. It is also very important to catch errors on the server before it is passed back to the client. This prevents any errors from getting to the event loop which could crash the program and all clients would suffer."
+    }
+]
