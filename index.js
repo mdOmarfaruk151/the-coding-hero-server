@@ -5,15 +5,19 @@ const port = process.env.PORT || 5000;
 
 app.use(cors()); //! use for open API data all
 
-//! All API Data
+//! Get All json Data
 const categories = require("./data/categories.json");
 const courses = require("./data/courses.json");
 const blogsCategories = require("./blog/blogsCategories.json");
 const blogs = require("./blog/blogs.json");
 
+//! set server test routes
 app.get("/", (req, res) => {
-  res.send("All API Running");
+  res.send("All Json Data Running");
 });
+
+//!..................All Courses functions.........................
+
 //! To Send Courses Categories API Data
 app.get("/courses-categories", (req, res) => {
   res.send(categories);
@@ -40,6 +44,10 @@ app.get("/courses/:id", (req, res) => {
 app.get("/courses",(req, res)=>{
     res.send(courses);
 });
+//!..................All Courses functions End.........................
+
+//!..................All Blogs functions Start.........................
+
 //! To Send blogs Categories API Data
 app.get("/blogs-categories", (req, res) => {
   res.send(blogsCategories);
@@ -55,7 +63,7 @@ app.get("/blogs-category/:id", (req, res) => {
         res.send(category_blogs);
     }
 });
-//! To show all blogs post API Data
+//! To Show all blogs post API Data
 app.get('/blogs', (req, res)=>{
     res.send(blogs)
 })
@@ -66,7 +74,9 @@ app.get("/blogs/:id", (req, res) => {
     res.send(selectedBlogs)
     
 });
+//!..................All Blogs functions End.........................
 
+//! for test server port is running
 app.listen(port, () => {
   console.log("coding server running on port", port);
 });
