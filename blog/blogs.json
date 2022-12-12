@@ -1,6 +1,6 @@
 [
     {
-        "id":"001-cors-what-is-cors-?",
+        "id":"001-cors-what-is-cors",
         "category_id":"01",
         "topic":"Cors",
         "date":"01-12-2022",
@@ -14,7 +14,7 @@
         
     },
     {
-        "id":"002-firebase-why-are-you-using-firebase-?",
+        "id":"002-firebase-why-are-you-using-firebase",
         "category_id":"02",
         "topic":"Firebase",
         "date":"02-12-2022",
@@ -33,7 +33,7 @@
            
     }, 
     {
-        "id":"002-firebase-what-other-options-do-you-have-to-implement-authentication-?",
+        "id":"002-firebase-what-other-options-do-you-have-to-implement-authentication",
         "category_id":"02",
         "topic":"Firebase",
         "date":"03-12-2022",
@@ -51,7 +51,7 @@
         "ans":"Since user data is a lot more serious than wasting a pepperoni pizza, let's check out some user authentication platforms. And while an average business person will straightaway run towards Auth0 or Firebase, there are others as well. 👉🏻STYTCH: STYTCH is a staunch supporter of password-less authentication. It is focused on improving user experience and cutting developer headaches by doing just that. Password-less authentication is very similar to using Slack. They allow for 3rd-party logins or send an email link for authentication but never use passwords. STYTCH calls them magic links. You can use their SDKs for quick deployment or direct API to use the authentication method of your choice. There are multiple ways available such as social logins, SMS/WhatsApp/Email passcodes, email magic links, TOTP apps, etc. STYTCH has flexible pricing that adjusts as per your active user base. And there is a free USD 100 worth of credits as the welcome package. 👉🏻Ory: Ory brings complete user experience control with its headless user authentication management. There is a free tier and a cloud one if you intend to use a custom domain. Besides, Ory lets you create custom identity schemas to build personalized user authentication/registration forums. It also supports building single-page applications using React, Next.js, Gatsby, and AngularJS. With Ory, developers can test and validate the system without needing to code. Ory presents itself as a complete authentication and authorization platform with identity & permission management. It is a zero-trust network that is compatible with OAuth2 and OpenID Connect. Ory also comes with FIDO 2 compatible two-factor authentication (2FA) and a command-line developer-friendly interface. Finally, you can start with a free-forever plan and upgrade if need be. 👉🏻Okta: Okta is again a flagbearer of password-less security. However, you can ask for the strongest passwords with Okta as well. In addition to tweaking password requirements, you can also enable multi-factor authentication (MFA). Moreover, one can set up Okta's cloud authentication and let the users sign in via biometrics or push notifications. Besides, you get a real-time Syslog with advanced searches to identify issues for instant troubleshooting. Okta gives importance to progressive profiling, which means minimum upfront information at registrations. The aim is to minimize user inconvenience, boost registrations, and gradually complete the user profile. Okta allows for excellent API security by integrating identity protocols like OAuth. And you will have a single point for all API authorization policies to integrate security and development. And finally, it permits easy B2B integrations with security frameworks such as OpenID Connect and SAML in addition to legacy support for turnkey Active Directory & LDAP integration. 👉🏻Authress: With its long list of features, Authress seems a brilliant user authentication and a Firebase alternative. Authress bets heavily on its authorization API and integration with your existing identity solutions. You can define granular access controls and group them accordingly by user roles. In addition, Authress also has machine-to-machine authentication and unlimited enterprise integrations. Similarly, you can use SSO and any number of social logins for your application authentication. It gives you comprehensive usage logs and unlimited users with import/export support. You can also use your branding with a custom domain. While there is no free-forever subscription, your first 1000 API calls are free with standard and enterprise plans. 👉🏻Auth0: Auth0 is the go-to user authentication platform and a Firebase alternative for good reasons. It features a universal login for all your applications to add user convenience. This is like having SSO between multiple apps. So the user won't get annoyed to log in separately on other apps; instead will be auto-signed in via SSO. There is a central feature control dashboard for social logins, problem detections, and MFA. One can also use custom domains for seamless branding. Moreover, there are password-less magic links for an even better user experience. Auth0 has flexible subscriptions for many use cases, including a free tier."
     },
     {
-        "id":"003-private-route-how-does-the-private-route-work-?",
+        "id":"003-private-route-how-does-the-private-route-work",
         "category_id":"03",
         "topic":"Private Route",
         "date":"04-12-2022",
@@ -64,7 +64,7 @@
         "ans": "This is a quick example of how to implement a private route component with React Router 6. The private route component is used to protect selected pages in a React app from unauthenticated users. The react private route component renders child components (children) if the user is logged in. If not logged in the user is redirected to the /login page with the return url passed in the location state property. The current logged in user (authUser) is retrieved from Redux state with a call to the useSelector() hook. Redux is used in this example however it is not required to implement a Private Route component in React Router 6. You could use a different state management library or any approach you prefer to get the logged in status of the user. The App component is the root component of the example app, it contains the outer html, main nav and routes for the application. The /login route is public, and the home route (/) is protected by the private route component that uses Redux to check if the user is logged in. The last route is a catch-all redirect route that redirects any unmatched paths to the home page." 
     },
     {
-        "id":"004-node-what-is-node-?",
+        "id":"004-node-what-is-node",
         "category_id":"04",
         "topic":"Node",
         "date":"05-12-2022",
@@ -78,7 +78,7 @@
 
     },
     {
-        "id":"004-node-how-does-node-work-?",
+        "id":"004-node-how-does-node-work",
         "category_id":"04",
         "topic":"Node",
         "date":"06-12-2022",
